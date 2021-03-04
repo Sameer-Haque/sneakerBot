@@ -1,0 +1,6 @@
+auto login
+auto refresh
+proxy support
+multi website support
+UI
+User profile using JSON
